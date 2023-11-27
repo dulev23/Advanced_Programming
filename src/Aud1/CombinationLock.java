@@ -5,7 +5,6 @@ public class CombinationLock {
     private int combination;
     private boolean isOpen;
     private static int DEFAULT_COMBINATION = 100;
-
     public CombinationLock(int combination) {
         if (isCombinationValid(combination))
             this.combination = combination;
