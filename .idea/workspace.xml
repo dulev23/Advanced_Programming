@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a828b56e-a981-48ec-a0a4-359743e8bd78" name="Changes" comment="Create VtorKolokvium">
+      <change beforePath="$PROJECT_DIR$/Napredno Programiranje.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Napredno Programiranje.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/BigComplex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/CombinationLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/MultipleDeck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/PlayingCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/PlayingCardType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/BankTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InsufficientAmountException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InterestBearingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InterestCheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/NonInterestCheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/PlatinumCheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/ArrayListIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/FunctionalInterfacesIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/GradesTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/LambdaIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/OldestPersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/ReadingIntro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/WordCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/files/people.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/files/source.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud3/files/students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4/SensorAnalysis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4/Shapes1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4_1/FileSystemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4_1/QuizTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4_1/RiskTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud4_1/RuleTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud6/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud6/CountOccurrencesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud6/EratosthenesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aud6/ReverseListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/EquationTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/EvaluatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/F1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/GenericFractionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/LoggerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/MinAndMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/MojDDVTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/RiskTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/Shapes2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/SubtitlesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/TripleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/AuditionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/BooksTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/FileSystemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/FootballTableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/LabExercisesTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dulev23&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3397af8a-7c70-446d-83d2-ae0b846dfa5f" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3397af8a-7c70-446d-83d2-ae0b846dfa5f" />
+        <option name="url" value="https://github.com/dulev23/Advanced_Programming.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WqYVPRCovpkUoeZ3GYtUZtdcT9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BirthdayParadoxTest.executor": "Run",
+    "Application.FootballTableTest.executor": "Run",
+    "Application.MapIntro.executor": "Run",
+    "Application.NamesTest.executor": "Run",
+    "Application.SetAndMapIntro.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Administrator/IdeaProjects/Napredno Programiranje/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PrvKolokvium" />
+      <recent name="Aud4_2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a828b56e-a981-48ec-a0a4-359743e8bd78" name="Changes" comment="" />
+      <created>1697461601391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697461601391</updated>
+      <workItem from="1697461602324" duration="41000" />
+      <workItem from="1697475780564" duration="310000" />
+      <workItem from="1697476102624" duration="8448000" />
+      <workItem from="1698170495721" duration="47000" />
+      <workItem from="1698416875417" duration="71000" />
+      <workItem from="1698417130968" duration="999000" />
+      <workItem from="1698418510693" duration="129000" />
+      <workItem from="1698418699984" duration="10000" />
+      <workItem from="1698419424333" duration="8000" />
+      <workItem from="1698420198786" duration="17000" />
+      <workItem from="1698420795237" duration="16000" />
+      <workItem from="1698438015674" duration="6000" />
+      <workItem from="1698694933299" duration="1206000" />
+      <workItem from="1698776086684" duration="14000" />
+      <workItem from="1699706668732" duration="1162000" />
+      <workItem from="1699735458233" duration="351000" />
+      <workItem from="1699735934504" duration="54000" />
+      <workItem from="1699735996482" duration="19000" />
+      <workItem from="1699736023539" duration="63000" />
+      <workItem from="1699736105056" duration="61000" />
+      <workItem from="1699736173419" duration="41000" />
+      <workItem from="1699736221573" duration="68000" />
+      <workItem from="1699736296337" duration="820000" />
+      <workItem from="1699737133525" duration="4862000" />
+      <workItem from="1699742053877" duration="954000" />
+      <workItem from="1699791139906" duration="8461000" />
+      <workItem from="1699816892173" duration="2000" />
+      <workItem from="1699892570716" duration="600000" />
+      <workItem from="1699895355603" duration="763000" />
+      <workItem from="1699904064600" duration="788000" />
+      <workItem from="1699906360223" duration="500000" />
+      <workItem from="1699917203581" duration="119000" />
+      <workItem from="1699917860823" duration="2000" />
+      <workItem from="1699969008672" duration="208000" />
+      <workItem from="1699969758235" duration="212000" />
+      <workItem from="1699971379045" duration="64000" />
+      <workItem from="1699995808960" duration="625000" />
+      <workItem from="1701084535691" duration="1435000" />
+      <workItem from="1701086270822" duration="156000" />
+      <workItem from="1701086491814" duration="4000" />
+      <workItem from="1701087636498" duration="1249000" />
+      <workItem from="1701092803991" duration="180000" />
+      <workItem from="1701098757615" duration="23088000" />
+      <workItem from="1701126161411" duration="2449000" />
+      <workItem from="1701128677145" duration="173000" />
+      <workItem from="1701182930227" duration="7886000" />
+      <workItem from="1701261310687" duration="1800000" />
+      <workItem from="1701263674720" duration="4829000" />
+      <workItem from="1701275017172" duration="3890000" />
+      <workItem from="1701347672823" duration="16868000" />
+      <workItem from="1701369539762" duration="17202000" />
+      <workItem from="1701426063247" duration="17564000" />
+      <workItem from="1701448275002" duration="6640000" />
+      <workItem from="1701465751216" duration="2440000" />
+      <workItem from="1701607709158" duration="112000" />
+      <workItem from="1702507942911" duration="133000" />
+      <workItem from="1702567346437" duration="624000" />
+      <workItem from="1702597538057" duration="595000" />
+      <workItem from="1702922570423" duration="596000" />
+      <workItem from="1703091677773" duration="7557000" />
+      <workItem from="1703265972800" duration="311000" />
+      <workItem from="1703335243452" duration="1864000" />
+      <workItem from="1705108164980" duration="4000" />
+      <workItem from="1713807908034" duration="17153000" />
+      <workItem from="1713885630895" duration="2912000" />
+      <workItem from="1713983693132" duration="5841000" />
+      <workItem from="1714076702543" duration="7204000" />
+      <workItem from="1714083961665" duration="714000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create Aud2">
+      <option name="closed" value="true" />
+      <created>1701085848042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701085848042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Aud2">
+      <option name="closed" value="true" />
+      <created>1701086112497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701086112497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create">
+      <option name="closed" value="true" />
+      <created>1701087855046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701087855046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create PrvKolokviumZadaci">
+      <option name="closed" value="true" />
+      <created>1702508031944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702508031944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Aud6">
+      <option name="closed" value="true" />
+      <created>1703099988656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703099988656</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create VtorKolokvium">
+      <option name="closed" value="true" />
+      <created>1714083800388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714083800388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create VtorKolokvium">
+      <option name="closed" value="true" />
+      <created>1714083998433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714083998433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Aud2" />
+    <MESSAGE value="Create" />
+    <MESSAGE value="Create PrvKolokviumZadaci" />
+    <MESSAGE value="Create Aud6" />
+    <MESSAGE value="Create VtorKolokvium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create VtorKolokvium" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
