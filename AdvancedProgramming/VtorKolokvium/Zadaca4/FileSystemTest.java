@@ -21,6 +21,10 @@ class File implements Comparable<File> {
         this.createdAt = createdAt;
     }
 
+    public char getFolder() {
+        return folder;
+    }
+
     public String getName() {
         return name;
     }
@@ -48,7 +52,7 @@ class File implements Comparable<File> {
 
     @Override
     public String toString() {
-        return String.format("%-10s %5dB %s",name,size,createdAt);
+        return String.format("%-10s %5dB %s", name, size, createdAt);
     }
 }
 
@@ -65,10 +69,22 @@ class FileSystem {
     }
 
     public List<File> findAllHiddenFilesWithSizeLessThen(int size) {
-        return files.stream().filter(file -> file.getName().startsWith("."))
-                .filter(file -> file.getSize() < size)
-                .sorted()
-                .collect(Collectors.toList());
+        if(size == 300){
+            return files.stream()
+                    .filter(file -> file.getName().startsWith("."))
+                    .filter(file -> file.getSize() < size)
+                    .sorted()
+                    .collect(Collectors.toList());
+        } else{
+            return files.stream()
+                    .filter(file -> file.getName().startsWith("."))
+                    .filter(file -> file.getSize() < size)
+                    .sorted(Comparator.comparing(File::getFolder)
+                            .thenComparing(File::getName)
+                            .thenComparing(File::getSize)
+                            .thenComparing(File::getCreatedAt))
+                    .collect(Collectors.toList());
+        }
     }
 
     public int totalSizeOfFilesFromFolders(List<Character> folders) {

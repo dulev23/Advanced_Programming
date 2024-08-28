@@ -20,6 +20,5 @@ public class ArrayListIntro {
 
         strings.addFirst("Java");
         System.out.println(strings);
-
     }
 }
