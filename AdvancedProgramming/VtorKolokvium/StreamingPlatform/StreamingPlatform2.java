@@ -1,4 +1,4 @@
-//package VtorKolokvium.StreamingPlatform;
+package VtorKolokvium.StreamingPlatform;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -34,9 +34,9 @@ class CosineSimilarityCalculator {
 }
 
 class Movie implements Comparable<Movie> {
-    private String id;
-    private String title;
-    private float rating;
+    private final String id;
+    private final String title;
+    private final float rating;
 
     public Movie(String id, String title) {
         this.id = id;
@@ -68,9 +68,9 @@ class Movie implements Comparable<Movie> {
 }
 
 class User {
-    private String id;
-    private String name;
-    private Map<String, Double> userRating;
+    private final String id;
+    private final String name;
+    private final Map<String, Double> userRating;
 
     public User(String id, String name) {
         this.id = id;
@@ -86,10 +86,6 @@ class User {
         return name;
     }
 
-    public Map<String, Double> getUserRating() {
-        return userRating;
-    }
-
     @Override
     public String toString() {
         return String.format("User ID: %s Name: %s", getId(), getName());
@@ -97,9 +93,9 @@ class User {
 }
 
 class StreamingPlatform {
-    private List<Movie> moviesList;
-    private List<User> usersList;
-    private Map<String, Map<String, Integer>> ratings;
+    private final List<Movie> moviesList;
+    private final List<User> usersList;
+    private final Map<String, Map<String, Integer>> ratings;
 
     public StreamingPlatform() {
         moviesList = new ArrayList<>();

@@ -4,59 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a828b56e-a981-48ec-a0a4-359743e8bd78" name="Changes" comment="Create VtorKolokvium">
-      <change beforePath="$PROJECT_DIR$/Napredno Programiranje.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Napredno Programiranje.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/BigComplex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/CombinationLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/MultipleDeck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/PlayingCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud1/cards/PlayingCardType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/BankTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InsufficientAmountException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InterestBearingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/InterestCheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/NonInterestCheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud2/BankExcercise/PlatinumCheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/ArrayListIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/FunctionalInterfacesIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/GradesTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/LambdaIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/OldestPersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/ReadingIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/WordCounterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/files/people.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/files/source.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud3/files/students.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4/SensorAnalysis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4/Shapes1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4_1/FileSystemTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4_1/QuizTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4_1/RiskTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud4_1/RuleTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud6/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud6/CountOccurrencesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud6/EratosthenesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aud6/ReverseListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/EquationTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/EvaluatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/F1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/GenericFractionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/LoggerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/MinAndMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/MojDDVTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/RiskTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/Shapes2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/SubtitlesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrvKolokvium/TripleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/AuditionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/BooksTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/FileSystemTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/FootballTableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VtorKolokvium/LabExercisesTest.java" beforeDir="false" />
+    <list default="true" id="a828b56e-a981-48ec-a0a4-359743e8bd78" name="Changes" comment="Update Advanced_Programming">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-Apr-24_12_26_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-Apr-24_12_26_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,37 +69,52 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.BirthdayParadoxTest.executor": "Run",
-    "Application.FootballTableTest.executor": "Run",
-    "Application.MapIntro.executor": "Run",
-    "Application.NamesTest.executor": "Run",
-    "Application.SetAndMapIntro.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Administrator/IdeaProjects/Napredno Programiranje/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BirthdayParadoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FootballTableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapIntro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NamesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetAndMapIntro.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/IdeaProjects/Napredno Programiranje/AdvancedProgramming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrator/IdeaProjects/Napredno Programiranje/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="PrvKolokvium" />
       <recent name="Aud4_2" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Napredno Programiranje" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Napredno Programiranje" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -232,7 +198,10 @@
       <workItem from="1713885630895" duration="2912000" />
       <workItem from="1713983693132" duration="5841000" />
       <workItem from="1714076702543" duration="7204000" />
-      <workItem from="1714083961665" duration="714000" />
+      <workItem from="1714083961665" duration="1013000" />
+      <workItem from="1715880127858" duration="304000" />
+      <workItem from="1723650847897" duration="351000" />
+      <workItem from="1723651217973" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Create Aud2">
       <option name="closed" value="true" />
@@ -290,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714083998433</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update Advanced_Programming">
+      <option name="closed" value="true" />
+      <created>1714084774698</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714084774698</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update Advanced_Programming">
+      <option name="closed" value="true" />
+      <created>1714084808656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714084808656</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +319,8 @@
     <MESSAGE value="Create PrvKolokviumZadaci" />
     <MESSAGE value="Create Aud6" />
     <MESSAGE value="Create VtorKolokvium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create VtorKolokvium" />
+    <MESSAGE value="Update Advanced_Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Advanced_Programming" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
