@@ -6,13 +6,14 @@ import java.util.stream.Collectors;
 
 interface Rateable {
     double finalRating();
+
     List<String> getGenres();
 }
 
 class Movie implements Rateable, Comparable<Movie> {
-    private String name;
-    private List<String> genres;
-    private List<Double> ratings;
+    private final String name;
+    private final List<String> genres;
+    private final List<Double> ratings;
 
     public Movie(String name, List<String> genres, List<Double> ratings) {
         this.name = name;
@@ -27,10 +28,6 @@ class Movie implements Rateable, Comparable<Movie> {
     @Override
     public List<String> getGenres() {
         return genres;
-    }
-
-    public List<Double> getRatings() {
-        return ratings;
     }
 
     @Override
@@ -54,7 +51,7 @@ class Movie implements Rateable, Comparable<Movie> {
 }
 
 class Episode implements Comparable<Episode> {
-    List<Double> episodeRatings;
+    private final List<Double> episodeRatings;
 
     public Episode(List<Double> episodeRatings) {
         this.episodeRatings = new ArrayList<>(episodeRatings);
@@ -75,9 +72,9 @@ class Episode implements Comparable<Episode> {
 }
 
 class Series implements Rateable, Comparable<Series> {
-    private String name;
-    private List<String> genres;
-    private List<Episode> episodes;
+    private final String name;
+    private final List<String> genres;
+    private final List<Episode> episodes;
 
     public Series(String name, List<String> genres, List<Episode> episodeRatings) {
         this.name = name;
@@ -177,7 +174,7 @@ class StreamingPlatform {
                 .collect(Collectors.toList()));
 
         allItems.stream()
-                .sorted((r1,r2) -> Double.compare(r2.finalRating(),r1.finalRating()))
+                .sorted((r1, r2) -> Double.compare(r2.finalRating(), r1.finalRating()))
                 .forEach(out::println);
     }
 }
