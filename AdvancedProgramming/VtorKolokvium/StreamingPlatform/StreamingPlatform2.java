@@ -132,7 +132,10 @@ class StreamingPlatform {
                 .sorted((m1, m2) -> Double.compare(getAverageRating(m2.getId()), getAverageRating(m1.getId())))
                 .limit(n)
                 .forEach(movie -> {
-                    System.out.printf("Movie ID: %s Title: %s Rating: %.2f\n", movie.getId(), movie.getTitle(), getAverageRating(movie.getId()));
+                    System.out.printf("Movie ID: %s Title: %s Rating: %.2f\n",
+                            movie.getId(),
+                            movie.getTitle(),
+                            getAverageRating(movie.getId()));
                 });
     }
 
@@ -171,7 +174,7 @@ class StreamingPlatform {
     }
 
     public void similarUsers(String userId) {
-        
+
     }
 }
 

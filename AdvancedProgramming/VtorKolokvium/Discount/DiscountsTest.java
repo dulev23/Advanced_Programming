@@ -30,7 +30,7 @@ class Item {
     }
 
     public double getDiscountPercentage() {
-        return Math.floor(discount()/getPrice() * 100);
+        return Math.floor(discount() / getPrice() * 100);
     }
 
     @Override
@@ -70,11 +70,11 @@ class Store implements Comparable<Store> {
                 .sorted(Comparator.comparingDouble(Item::getDiscountPercentage)
                         .thenComparing(Item::getPrice).reversed())
                 .forEach(item -> {
-            int discountPercent =(int) item.getDiscountPercentage();
-            sb.append(String.format("%2d%% %d/%d\n", discountPercent,
-                    (int) item.getDiscountPrice(),
-                    item.getPrice()));
-        });
+                    int discountPercent = (int) item.getDiscountPercentage();
+                    sb.append(String.format("%2d%% %d/%d\n", discountPercent,
+                            (int) item.getDiscountPrice(),
+                            item.getPrice()));
+                });
         return sb.toString().trim();
     }
 
